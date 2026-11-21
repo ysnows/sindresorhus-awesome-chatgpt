@@ -71,6 +71,7 @@
 - [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
 - [ScreenSnapAI](https://screensnap.ai) - Native macOS app to chat about captured screenshots. ($)
 - [QChatGPT](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with the Quasar framework. (Electron)
+- [Enconvo](https://enconvo.com) - Native macOS app with an AI agent that can sign in with your ChatGPT plan, run Codex, and work in your apps and browser. ($)
 
 ## Web apps
 
